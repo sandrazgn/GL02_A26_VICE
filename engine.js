@@ -2,7 +2,6 @@
 var Engine= {
     check: function() {
         console.log("Engine is Ready!");
-        console.log("Magenta level checked".magenta)
         return true;
     }
 }

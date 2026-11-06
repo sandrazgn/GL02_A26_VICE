@@ -1,1 +1,4 @@
 # VICE
+
+Équipe:
+- Vianney JACQUEMOT

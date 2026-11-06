@@ -1,0 +1,22 @@
+{
+  "name": "gl02_a26_vice",
+  "version": "1.0.0",
+  "description": "Équipe: - Vianney JACQUEMOT - Yohan Manuel MBIDA",
+  "main": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandrazgn/GL02_A26_VICE.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sandrazgn/GL02_A26_VICE/issues"
+  },
+  "homepage": "https://github.com/sandrazgn/GL02_A26_VICE#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

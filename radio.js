@@ -2,6 +2,7 @@ var Radio = {
   check: function () {
     console.log("Radio Ready !")
     console.log("Grey level checked".grey)
+      console.log("Blue level checked".blue)
     return true
   }
 }

@@ -17,9 +17,15 @@
   },
   "license": "MIT",
   "author": "VICE team: Vianney JACQUEMOT, Sandra NYETAM, Yohan MBIDA, Rayan AKIL",
-  "type": "commonjs",
+  "type": "module",
   "main": "src/cli/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@caporal/core": "^2.0.7",
+    "colors": "^1.4.0",
+    "vega": "^6.4.0",
+    "vega-lite": "^6.5.0"
   }
 }
